@@ -15,8 +15,6 @@ class FibGenerator:
             times -= 1
 
 
-
-
 if __name__=="__main__":
     for v in FibGenerator(10):
         print(v)
